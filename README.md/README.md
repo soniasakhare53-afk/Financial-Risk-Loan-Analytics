@@ -118,12 +118,3 @@ This project delivers a **bank-grade financial risk analytics system** that supp
 ## 👩‍💻 Author
 
 **Sonia Sakhare**
-
----
-
-## ⭐ How to Run (Optional)
-
-1. Set up MySQL and import the database schema.
-2. Insert sample data using the provided SQL scripts.
-3. Open the Jupyter Notebook.
-4. Run cells sequentially to perform analytics and generate dashboards.
